@@ -32,3 +32,14 @@ Ya see, our eyes may be able to percieve the world around us, but really. **How 
 The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact)
+
+### Thank You For Scrolling All the Way Down. This is where the homework begins:
+
+# Jackie's First CS193 Homework
+Best things about CS193
+- Why of course, number one would be the  a m a z i n g  TAs
+- Good review and practice of what will/has happened in the lectures/labs
+- Good place to ask questions
+- No final exams or midterms
+- I don't know that much yet man we've had like two classes so far
+
