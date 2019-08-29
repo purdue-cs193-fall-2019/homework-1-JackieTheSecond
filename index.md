@@ -4,7 +4,7 @@
 ```
 
   On February 31st, a man was found laying face first on a local sidewalk near Fuckit Park. Needless to say, people were intrigued. 
-	Many believed this to be a part of the [newest trend](https://www.reddit.com/r/NewsOfTheStupid/), or the [latest news](https://knowyourmeme.com/memes/local-man-ruins-everything). When in reality, it was something much more distrubing.
+	Many believed this to be a part of the [newest trend](https://www.essexlive.news/news/uk-world-news/woman-claims-drinking-dogs-urine-1700280), or the [latest news](http://thesmokinggun.com/buster/pokemon-go/pokemon-overload-seatac-694201). When in reality, it was something much more distrubing.
 	
 ```
 "Well!!, Don't keep us in suspense Jackie! Was he dead???"
